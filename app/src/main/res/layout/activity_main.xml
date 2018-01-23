@@ -18,7 +18,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:textColor="#ffffff"
-        android:text="제비가 박씨를 물어왔다..."
+        android:text="제비가 박씨를 물어왔다...."
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
